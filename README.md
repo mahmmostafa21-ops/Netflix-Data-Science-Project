@@ -50,3 +50,19 @@ The project includes:
 
 ## Author
 Mahmoud Mostafa
+## Screenshots
+
+### Analysis
+![Analysis](Analysis 1.png)
+
+### Chart 1
+![Chart1](Char 1.png)
+
+### Chart 2
+![Chart2](Char 2.png)
+
+### Chart 3
+![Chart3](Char 3.png)
+
+### Chart 4
+![Chart4](Char 4.png)
